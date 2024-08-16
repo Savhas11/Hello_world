@@ -6,7 +6,7 @@ I am Savanna, I am 27 years old and love to read.
 I love art and reading! 📖🎨
 
 ### I am just practicing
-** This text isBold**
+**This text is bold**
 
 [Link to Github](https://github.com/)
 
